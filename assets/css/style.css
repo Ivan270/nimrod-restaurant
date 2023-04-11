@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	background-image: url('../img/fondo.jpg');
+	background-size: 30%;
+}
+
+#nav__logo {
+	width: 70px;
+	margin-bottom: 16px;
+}
+
+#destacados__title h2 {
+	border-top: 2px solid black;
+	margin: 16px auto 50px auto;
+	width: 300px;
+}
+
+.destacados__img {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.562);
+	height: 300px;
+	object-fit: cover;
+}
+
+footer {
+	background-image: url('../img/fondo.jpg');
+	background-color: black;
+	background-size: auto;
+	background-position: top;
+	background-repeat: no-repeat;
+	color: white;
+	height: 300px;
+	text-align: center;
+}
+
+#copyright {
+	height: 100%;
+	position: relative;
+}
+
+#copyright p {
+	position: absolute;
+	top: 50%;
+	left: 45%;
+}
