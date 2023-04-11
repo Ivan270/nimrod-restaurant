@@ -1,0 +1,13 @@
+git init
+
+git branch -M main 
+
+git branch
+
+git add .
+
+git commit -m "mensaje"
+
+git status
+
+git log
