@@ -46,3 +46,7 @@ footer {
 	top: 50%;
 	left: 45%;
 }
+
+.card--img {
+	width: 500px;
+}
